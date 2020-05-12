@@ -6,7 +6,6 @@ end
 def my_hash
   my_hash = {
     :team => "Yankees"
-    :championships => 27
   }
 
 end
